@@ -1,0 +1,19 @@
+.myBtn {
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background: -webkit-linear-gradient(180deg, honeydew 20%, silver 78%);
+    background: -moz-linear-gradient(180deg, honeydew 20%, silver 78%);
+    background: linear-gradient(180deg, honeydew 20%, silver 78%);
+    border: 1px solid black;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.myBtn:hover {
+    background: -webkit-linear-gradient(180deg, silver 8%,  black 90%);
+    background: -moz-linear-gradient(180deg, silver 8%,  black 90%);
+    background: linear-gradient(180deg, silver 8%,  black 90%);
+    color: greenyellow;
+}

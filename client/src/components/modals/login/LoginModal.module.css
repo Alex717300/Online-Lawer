@@ -1,0 +1,31 @@
+.modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 400px;
+    width: 1000px;
+    background-color: white;
+}
+
+.modal_login_form {
+    display: flex;
+    flex-direction: column;
+}
+
+.pass_inp {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    max-width: 100%;
+}
+
+.pass_inp input {
+    width: 950px;
+}
+
+.openReg {
+    display: flex;
+    flex-direction: row;
+}

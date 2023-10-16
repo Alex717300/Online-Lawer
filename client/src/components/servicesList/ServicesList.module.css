@@ -1,0 +1,13 @@
+.servicesList {
+    height: 650px;
+    width: 1200px;
+    margin-top: 20px;
+    margin-left: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.servicesList h1 {
+    font-style: oblique;
+}

@@ -1,0 +1,21 @@
+.modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   height: 150px;
+    min-width: 100px;
+    max-width: 1000px;
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color: white;
+}
+
+.successText {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-style: oblique;
+}

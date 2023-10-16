@@ -1,0 +1,9 @@
+html,
+body {
+margin: 0;
+background: gainsboro;
+}
+
+html {
+    font-size: 100%;
+}

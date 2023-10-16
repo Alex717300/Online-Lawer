@@ -1,0 +1,19 @@
+.policydoc {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.policydoc h1 {
+    font-style: oblique;
+}
+
+.policydoc a {
+    margin-top: 40px;
+    font-size: 20px;
+}
+
+.privacy_policydoc {
+    margin-top: 5px;
+}

@@ -1,0 +1,35 @@
+.contacts {
+    margin-top: 50px;
+    margin-left: 20px;
+    height: 650px;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.contacts h1 {
+    font-style: oblique;
+}
+
+.callContacts {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.callContacts h3 {
+    margin-left: 5px;
+}
+
+.callContacts a {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-decoration: none;
+}
+
+.callContacts p {
+    margin-left: 10px;
+}
